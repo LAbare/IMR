@@ -1,0 +1,104 @@
+{ 'name': "Poutoux entre Finola et Stephen", 'cat': "divers" }
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle ouvre la vitre de son monoplace et dépose un baiser sur les lèvres de Stephen.</em> Je n'attends plus que ça, plus que toi. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Voilà, je suis juste à côté de toi. Tu n'as plus qu'à me suivre. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Ne t'inquiète pas, je monterai dans le patrouilleur à côté du tien, et je te guiderai. Mais je veux superviser l'évacuation jusqu'au dernier moment. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Pour l'instant il faut juste stationner à l'entrée du dôme, et attendre que tout le monde soit sorti. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle monte à bord, le démarre et avance lentement. La porte du complexe s'ouvre devant elle, et elle s'arrête après l'avoir traversée.</em> Et… où, maintenant ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Je suis là, mon amour. Je vérifiais juste où en était l'évacuation. <em>Prend la main de Finola et la guide vers un patrouilleur.</em> Vas-y, je te tiens et je t'expliquerai, mais tu verras, c'est facile. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle l'embrasse doucement en retour et reste silencieuse. Elle va vers un patrouilleur, un peu inquiète, l'examine. Quand elle se retourne, Stephen n'est plus là.</em> Stephen ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Ses yeux s'embuent de larmes et il n'essaye même pas de les retenir.</em> Jamais je n'aurais espéré... c'est tellement plus beau, plus fort que je ne l'aurais imaginé... et nous aurons tout le reste de notre vie pour partager cela. <em>L'embrasse de nouveau, un baiser tendre et passionné à la fois.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle se colle contre lui, la tête sur son cœur.</em> Moi aussi, je t'aime, Stephen. <em>Elle s'endort presque un instant dans sa sérénité.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Il reprend son souffle et passe un bras autour de sa taille pour la garder tout contre lui.</em> Moi aussi. Je t'aime, Finola. <em>Frissonne, réalisant que c'est la première fois qu'il dit ces mots à voix haute.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Épuisée et toujours un peu nerveuse, elle s'allonge au côté de Stephen et lui tient la main.</em> J'ai hâte… </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Tu as bien vu comme c'était, dehors... C'est grand, que dis-je, immense, libre, sans grillages. Nous pourrons vivre où nous le souhaitons, peu importe où, peu importe comment, tant que c'est ensemble. <em>Il lève doucement le visage de Finola vers le sien et dépose un long baiser sur ses lèvres.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle semble plus rassurée et se glisse dans ses bras.</em> Tu es sûr que tout ira bien dehors ? Qu'on sera bel et bien libres, et non pas enfermés dans un nouveau complexe ? <em>Elle le serre de toutes ses forces.</em> Oh, tant que c'est avec toi… </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Nous voilà tranquilles... </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Emu par le tourment de la jeune femme, il ne sait quoi faire.</em> Je... je ne peux pas mentir, je souhaitais depuis longtemps que cette situation cesse, que nous connaissions tous un vrai bonheur. Même si... même si j'aurais été prêt à rester avec toi, et rester un inférieur en supportant la situation. <em>La prend dans ses bras et la serre tendrement.</em> Je sais, c'est effrayant, mais je suis convaincu que nous serons plus heureux dehors. Plus libres, aussi. Libres de s'aimer, de vivre comme nous l'entendons... <em>sourire malicieux</em> de passer autant de moments seuls que nous le voulons. Veux-tu... veux-tu me rejoindre en dortoir beta pour passer ensemble ces derniers moments dans le dôme ? Ou bien dois-je venir en dortoir alpha ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle ferme les yeux pour tenter de retenir ses larmes.</em> J'aurais préféré que rien de tout ce chaos n'arrive, nous n'aurions pas eu à fuir… Mais c'est trop tard. Je viendrai avec toi, bien sûr ! Et tant… tant pis pour le reste. <em>Elle continue de faire les cent pas, puis s'arrête.</em> J'ai… comme une envie, comme de l'amour et du bien qui fondent en moi, comme… comme je veux être avec toi. Juste avec toi. <em>Elle rougit.</em> Je sais que ce n'est peut-être pas le bon moment, mais… peut-être devrait-on passer un moment seuls, juste nous deux, pour… s'approcher ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>[Nan mais c'est nuuul, on n'aura même pas eu le temps de faire un petit bébé mush. :'(]</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>D'une voix blanche.</em> Tu... tu veux fuir, n'est-ce pas ? Tu ne veux pas rester ici ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Qu'allons-nous faire, Finola ? La situation échappe à tout contrôle... Comment faire pour éviter des morts et des souffrances inutiles ?  </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Oui, c'est vraiment ça. C'est... tout simple, et pourtant très beau. <em>Sourit et pose la main sur sa joue après une brève hésitation.</em> Non, tes questions ne sont pas stupides, la situation du dôme est... confuse et inquiétante, et puis ces sentiments sont tout nouveaux pour nous. J'espère que nous y arriverons... </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Non non, absolument pas… <em>Hésitante.</em> C'est donc vraiment ça que ressentent Chao et Paola ? Ça se… partage ? Et on veut nous l'interdire ? <em>Elle marque une pause.</em> Je suis désolé si mes questions te paraissent stupides, mais j'ai encore du mal avec toutes ces voix dans mes pensées, ça s'embrouille, je n'arrive pas à bien suivre. J'ai compris qu'il faut essayer de raisonner Jin Su, qu'il nous prend pour des monstres… Je vais me concentrer, promis, je veux comprendre et l'aider. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Pardon, je t'ai... je vous ai sans doute choquée ou mise en colère. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Ferme les yeux et savoure la douce sensation de ses mains.</em> Nous n'avons pourtant tous parlé que de ça, ce soir... <em>soupire</em> d'une manière bien triste et sur un ton bien trop violent pour une chose aussi belle. <em>Parle tout bas, dans un chuchotement tendre.</em> N'as-tu pas deviné qu'il s'agissait... d'amour ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle masse doucement le crâne à peine dégarni de Stephen.</em> Ça ne peut pas m'effrayer, venant de toi. Dis-moi… </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Ses jours rosissent, et il se maudit de rougir pour la énième fois en quelques jours. Peut-être devrait-il carrément se laisser pousser la barbe.</em> Oui, il y a un mot... enfin, je crois que c'est de ça qu'il s'agit, mais... je ne voudrais pas t'effrayer... </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Étonnée.</em> Il y a un mot ? Lequel ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Lui rend son sourire tendrement.</em> Tu le décris parfaitement, et de façon tellement belle... Je... je n'ose pas prononcer le mot, mais... non, c'est inutile, tu le dis tellement mieux. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Mais… <em>Ses yeux s'embuent légèrement.</em> Je… Je ne sais pas comment le dire. Je le décris mieux physiquement. C'est nouveau, c'est… oui, c'est du temps avec toi, du sourire, c'est ensemble, c'est… <em>Elle sourit.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Oh... Oooh... <em>Stephen frissonne au contact des mains de Finola, et doit faire un gros effort sur lui-même pour ne pas réagir.</em> C'est... très doux, en effet. Je ne parle pas de tes mains, qui sont... exquises, mais de ce que tu dis, ce que tu ressens. <em>Plonge ses yeux dans les siens.</em> Tu ne dois pas avoir peur, tu sais. Mais... je ne veux pas te brusquer. Je voudrais simplement... parler avec toi, passer du temps avec toi. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle se mord la lèvre, quelque chose au fond d'elle de trop discipliné la retient de tout dire.</em> Oui, je… j'en suis certaine. Ce n'est pas que de la timidité, ni une simple affection bienveillante de clarificateur à clarificateur, c'est plus… grand, c'est plus toi. C'est confus aussi, mais c'est… doux dans les mains. <em>Elle commence à soigner Stephen avec tendresse, le masse un peu, frôle sa joue, bafouille.</em> Un peu… un peu comme ça. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Dis-moi... j'ai besoin de savoir. Non, pas au sujet des... mutants, et de ce que je suis désormais, même si j'aurai sans doute beaucoup de questions demain. Mais... au sujet de... de nous. Je vois à quel point Chao souffre, et... et j'avais cru naïvement ressentir quelque chose pour Janice, alors que ces sentiments n'étaient pas réciproques. Je ne voudrais pas... être blessé à nouveau. <em>Prend une inspiration.</em> Est-ce que... est-ce que tu ressens quelque chose pour moi ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Regarde Finola d'un oeil nouveau.</em> Alors c'était ça ? Je... je m'en doutais, mais je n'osais pas demander, de peur de me tromper... de peur d'outrepasser mes droits, aussi. Mais je crois que pour la première fois depuis longtemps, je peux dire ce soir que je suis heureux. </div>
+
+<div class='log'> <img src='img/mush.png' /> <strong>Finola</strong> et <strong>Chao</strong> s'approchent de <strong>Stephen</strong>… et le convertissent discrètement ! </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Je vous souhaite une bonne nuit, alors, Clarificatrice. N'hésitez pas à me solliciter si vous avez besoin de mes services. <em>Incline légèrement la tête et rentre dans le dortoir, toujours un peu perplexe.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle sèche ses larmes autant que possible et bafouille encore.</em> Non, non non, non, ne… non, vous n'avez rien fait… rien fait de mal. Vous êtes un hom… un clarificateur très bon. <em>Elle en oublie cette histoire de thé et va se reposer, mais ne trouve pas le sommeil.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Se retourne au moment d'entrer dans le dortoir beta et voit Finola sortir du stockage, les yeux rouges. Il reste dans l'encadrement de la porte, la regardant d'un air surpris et inquiet.</em> Clarificatrice... vous ai-je offensée ou blessée d'une manière ou d'une autre ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle reste paralysée un moment, puis sort d'un pas nerveux. Mais pourquoi a-t-elle dit non ? Pourquoi ? Elle se prend la tête dans les mains pour cacher ses larmes.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Prend un air soucieux.</em> Vous n'avez pas l'air d'aller bien, si vous me permettez. Peut-être une tasse de café, plutôt que du thé ? Ou bien un peu de repos ? <em>S'écarte sur la droite pour laisser passer Finola, qui fait un écart sur la gauche. Il refait un pas sur la gauche tandis qu'elle s'écarte vers la droite. Rires gênés.</em> Allez-y, je vous prie. <em>S'efface pour la laisser passer pour de bon.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola rougit et sort précipitamment de la baie.</em> Je… Non, ça ira, merci, ce n'est rien. Gardez vos forces pour nous débarasser des parasites. <em>Je… Je ne me sens pas prête. Il y a quelque chose… Elle manque de rentrer dans Stephen au détour d'un réservoir, sursaute et bafouille.</em> Oh ! Excusez-moi… Je… Je ne vous avais pas vu. </div>
+
+<div class='log'> <strong>Finola</strong> est entrée dans le Stockage Beta arrière. </div>
+
+<div class='log'> <strong>Stephen</strong> est entré dans le Stockage Beta arrière. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Avez-vous besoin de soins, Clarificatrice ? J'espère que cette araignée ne vous a pas transmis une maladie grave, alors que vous vous sentiez déjà un peu faible... </div>
+
+<div class='log'> <img src='img/planet.png' /> Soudain, <strong>Finola</strong> se met à hurler… Une araignée grosse comme le poing lui mord le téton et sort de sa combinaison ! </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Oh ? Rien de grave, j'espère ? <em>Sur un ton solliciteur.</em> Je peux bien entendu vous apporter un thé, mais pensez-vous qu'un formulaire soit nécessaire ? Nous avons des tasses brun clair, et le thé est lui-même de couleur sombre, je suis donc habilité à le manipuler. <em>Sourit humblement.</em> Et non, cela ne me dérange pas, bien entendu. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Aux mots de Stephen, Finola se réveille, le crâne bouillant. Oui, quelque chose ne va pas…</em> Je… Je vais bien, merci… clarifitateur Stephen. Juste une… petite défaillance physiologique. <em>Elle tousse un coup, pas très crédible.</em> Un thé me ferait le plus grand bien pour passer la matinée… Si… si ce n'est pas abuser de votre bienveillance… pourriez-vous me… me replir les formulaires adéquats, s'il vous plaît ? <em>Elle marque une pause.</em> Ce n'est pas un ordre, hein ! Si ça ne vous dérange pas et que vous avez une minute… </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Se réveille en serrant un ours en peluche dans ses bras et, gêné, le glisse sous sa tête pour le cacher.</em> Bien le bonjour, Clarificatrice. <em>Lui jette un oeil un peu scrutateur.</em> Dites-moi... enfin, arrêtez-moi si j'outrepasse mes droits, mais... j'ai cru voir une expression sur votre visage hier... un ton dans votre voix... Quelque chose ne va pas ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola, ne sachant trop que dire, savoure ce petit moment et le garde en bouche jusqu'à s'endormir paisiblement.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Oh, dans ce cas je suis heureux de vous avoir évité de quitter votre lit. Vous avez besoin de repos... <em>note le léger tremblement dans la voix de Finola et se demande si cela vient de la fatigue après cette pénible excursion.</em> En tout cas, je suis honoré de vos compliments. <em>Rougit et fait semblant de s'endormir pour éviter de trop réfléchir, se disant que la nuit portera conseil.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle sursaute presque, surprise, et est contente de ne pas être en face de Stephen à ce moment-là.</em> Oh ! Ce n'est absolument pas un problème. Il doit recevoir des soins, c'est sûr, et vous avez très bien fait. Je vous avoue que mon lit est confortable et que j'ai les paupières lourdes ; sinon, j'aurai accouru pour vous éviter de prendre cette peine. <em>Elle marque une pause et un sourire.</em> Il n'est jamais offensant que de penser au bonheur des autres, vous faites bien, très bien. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Remarque à peine l'oubli du titre tant il est fatigué.</em> Oh, eh bien, c'était un honneur pour moi, même si bien sûr mes piètres talents sont loin d'égaler les vôtres. Mais je voulais parler des soins prodigués à Ian alors que selon vous ce n'était pas urgent. Je ne voulais pas aller à l'encontre de votre opinion. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle se sent prise d'une bouffée de… non, pas que de chaleur, et en oublie un peu les formalités.</em> Non, bien sûr que non, Stephen. C'est très sympathique de votre part que de veiller à mon bonheur ! </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Pardonnez-moi, Clarificatrice Finola-I-SI. J'espère ne pas vous avoir offensée ? <em>regarde ses pieds et rougit</em> </div>

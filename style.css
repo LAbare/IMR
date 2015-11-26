@@ -1,0 +1,171 @@
+html, body { margin: 0; padding: 0; }
+body { margin-bottom: 10px; }
+
+/* Menu */
+#menu {
+	border-bottom: 3px #000440 solid;
+	background-color: #002880;
+	color: white;
+	text-align: center;
+}
+
+#menu span, .cat div {
+	cursor: pointer;
+}
+
+#menu span:hover, .cat div:hover {
+	color: #CCF;
+}
+
+.cat {
+	display: none;
+	background-color: #0048C0;
+}
+
+/* Canaux */
+#wall, .private {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+/* Réponses */
+.hiddenreplies { display: none; }
+
+.show {
+	text-align: right;
+	color: green;
+	cursor: pointer;
+}
+
+/* Canaux privés */
+.private {
+	display: none;
+}
+
+.private h1 {
+	text-align: center;
+	font-size: 1.5em;
+	color: #F03;
+}
+
+/* Impair */
+.message p { margin-left: 30px; }
+.message .char { float: left; }
+ 
+/* Pair */
+.message:nth-child(2n) p {
+	margin-right: 30px;
+	margin-left: 0;
+}
+.message:nth-child(2n) .char {
+	float: right;
+	transform: scaleX(-1);
+}
+
+.log {
+	margin-top: 20px;
+	border: 2px solid #888;
+	background-color: #DDD;
+	padding: 2px;
+}
+
+/* Bulles */
+.mainmessage, .message p {
+	border-radius: 8px;
+	border: 2px #000440 solid;
+	padding: 10px;
+	margin-top: 20px;
+	min-height: 48px;
+	position: relative;
+}
+
+.reply {
+	margin-left: 50px;
+	border-radius: 5px;
+	border: 2px navy solid;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.link {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+
+p {
+	margin: 0 5px;
+	word-wrap: break-word;
+}
+
+em { color: #F03; }
+
+strong { color: #30F; }
+
+.buddy {
+	font-variant: small-caps;
+	color: blue;
+	float: left;
+	margin-right: 5px;
+}
+
+.char {
+	background: url('img/char.png');
+	background-repeat: no-repeat;
+	width: 28px;
+	height: 48px;
+	resize: none;
+	float: left;
+}
+
+.reply .char { height: 16px; }
+
+/* Persos */
+.janice { background-position: 0px -144px !important; }
+
+.frieda { background-position: 0px -48px !important; }
+
+.paola { background-position: 0px -288px !important; }
+
+.gioele { background-position: 0px -624px !important; }
+
+.jin_su { background-position: 0px 0px !important; }
+
+.kuan_ti { background-position: 0px -96px !important; }
+
+.chun { background-position: 0px -528px !important; }
+
+.chao { background-position: 0px -336px !important; }
+
+.hua { background-position: 0px -240px !important; }
+
+.roland { background-position: 0px -192px !important; }
+
+.derek { background-position: -2px -1776px !important; }
+
+.andie { background-position: -2px -1824px !important; }
+
+.stephen { background-position: 0px -432px !important; }
+
+.ian { background-position: 0px -480px !important; }
+
+.raluca { background-position: 0px -576px !important; }
+
+.finola { background-position: 0px -384px !important; }
+
+.terrence { background-position: 0px -720px !important; }
+
+.eleesha { background-position: 0px -672px !important; }
+
+.mainmessage .neron {
+	background-image : url('img/neron_chat.png');
+	float: left;
+	margin-right: 5px;
+	height: 38px;
+	width: 38px;
+}
+
+.reply .neron {
+	float: left;
+	margin-right: 5px;
+}

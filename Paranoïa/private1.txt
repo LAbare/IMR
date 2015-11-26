@@ -1,0 +1,38 @@
+{ 'name': "Interrogatoire de Chao", 'cat': "interrogatoires" }
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Parfait. Nous pouvons arrêter là. N'oubliez pas de me donner deux exemplaires tamponnés de votre inventaire dès qu'il sera à jour.<br /><em>Elle sort calmement, puis presse le pas dans les couloirs pour ne pas rater le début du film.</em> </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Non, je n'ai rien d'autre à signaler. Je vais faire un inventaire plus précis pour mieux définir les pertes dès que possible, clarificatrice. Je ne supporte pas de ne pas avoir un inventaire à jour ! </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Bien, bien. <em>Elle prend des notes sur son calepin, l'air concentré.</em><br />Je ne vais pas vous retenir plus longtemps, alors, à moins que vous n'ayez d'autres choses à me dire, d'autres détails qui vous viendraient à l'esprit. </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Ah, oui, les pertes sont très importantes ! Presque toute la réserve de thé saveur citron est partie en fumée. L'incendie a été allumé au milieu du stock... <em>L'air très touché par cette perte.</em> Je crois qu'ils ont voulu s'attaquer à nos boissons. Mais comme l'incendie s'est étendu, nous avons aussi perdu toutes les combinaisons de rechanges et beaucoup de petit matériel utilitaire. On déplore également la fonte d'un grand nombre de tablette de chocolat. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Soit. Mais à vue d'œil, à quel point les pertes sont-elles importantes ? Y a-t-il des objets en particulier qui pourraient avoir été visés ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Heu... Heu... J'ai les listes mais... <em>Tend une liasse de documents dont toute la moitié inférieure est manquante.</em> Les commie-mutants cherchent à nous désorganiser ! Je ne pourrai pas faire une liste exhaustive des stocks perdus pour cause de combustion. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola ne sourcille pas.</em> Quelles ressources ont été détruites ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Il a eu lieux dans les locaux du service PLI, actuellement en quarantaine pour épuration des fumées de commie-mutant. On ne sait jamais, ils ont peut être brûlé des lectures interdites pour allumer l'incendie. La zone est actuellement désaffectée et interdite d'accès. S'y rendre comporte un haut risque de contamination par les effluves communiste. <em>Très sûr de lui, comme si il trouvait cette mesure parfaitement logique.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola sursaute et se redresse sur sa chaise, puis se relève, l'air sérieux.</em><br />Oui, l'interrogatoire. Dos au mur, sur la pointe des pieds. C'était à propos de cet incendie. Où a-t-il eu lieu exactement ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> <em>Mal à l'aise, il reste dos à la porte.</em> Clarificatrice ? Je viens pour l'interrogatoire. Avez vous besoin de temps pour mettre de l'ordre dans vos papiers ou vos pensées avant ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola, encore ébahie après l'interrogatoire de Gioele, n'entend pas Chao entrer. Elle semble presque perdue dans ses propres pensées.</em><br />C'est… c'est forcément ça. Mutant, mutant. Janice, les attributions, l'Ordinateur « défectueux »… Il faut le lui dire, le lui dire. </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Mais, la forme correcte est pourtant bien "après qu'elle l'ait utilisé", il ne s'agit pas d'une hypothèse mais d'un fait ! Je vous certifie qu'elle a bien réparer cette porte avec le ruban adhésif, comme son service le lui impose. <em>Très sérieusement</em> Si la langue du complexe Alpha a changée, il vous suffit de m'en informer et je ferai évoluer mon langage. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola fronce les sourcils et sourit.</em><br />Vous venez de dire « après que le clarificateur Janice-R-TECH <em>l'ait</em> utilisé »… Vous vouliez peut-être dire « l'a » ? Énoncez-vous une hypothèse ou un fait ? Votre phrase semblait décrire un fait, mais votre syntaxe penche pour l'hypothèse. Vous n'êtes pas sûr, clarificateur Chao-IR-PLI. Je ne me ferai pas avoir par votre petit jeu. Ne me donnez que des réponses sûres et claires. Vous rangiez donc le Ruban Adhésif ; le clarificateur Janice-R-TECH l'a-t-elle utilisé pour réparer la porte du Nexus ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> Je rangeais le Ruban Adhésif dans le Stockage avant après que le clarificateur Janice-R-TECH l'ait utilisé pour réparer la porte du Nexus dont la peinture s'effritait. <em>Une goutte de sueur coule sur sa tempe.</em> </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola prend un air très professionnel, presque sévère.</em><br />Où l'incendie en question a-t-il fait ravage, et que faisiez-vous à ce moment-là ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> <em>Les mains dans le dos, très mal à l'aise.</em> O... Oui clarificatrice ! Je suis prêt à répondre aux questions pour la sécurité du complexe Alpha. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola commence à s'impatienter et fait machinalement cliqueter le bouton rouge de son blaster.</em> Clarificateur Chao-IR-PLI, êtes-vous prêt pour l'interrogatoire ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> <em>Ne fait pas le fier dans sa combinaison noire.</em> Oui, bien entendu clarificatrice Finola-B-SI. Le temps de m'occuper de votre formulaire et je serai prêt à répondre. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola, méfiante, se rapproche de Chao et le prend à part.</em> Clarificateur Chao-IR-PLI, je dois vous poser quelques questions quant à cet incendie, dans le cadre de mon enquête. Êtes-vous prêt ? </div>

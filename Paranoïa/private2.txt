@@ -1,0 +1,40 @@
+{ 'name': "Interrogatoire de Gioele", 'cat': "interrogatoires" }
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Je vous remercie de votre professionnalisme, Clarificateur. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Bien. Je n'ai plus de questions. Vous pouvez disposer. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Votre question n'a pas de sens. Je suis un excellent clarificateur. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Je suis au Service de l'Énergie. La défense du Complexe Alpha contre les attaques extérieures relève de la branche FA de la Sec Int. Si l'Ordinateur m’avait réaffecté à la Sec Int, branche FA, je me serais exécuté avec plaisir. Je ne peux répondre à des ordres qui n'entrent pas dans les attributions de mon service. C'est pourtant simple, le Complexe a toujours fonctionné comme ça! </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola, ébahie, écarquille les yeux et reste muette un instant, puis se reprend.</em> Clarificateur Gioele-O-SE, j'ai une accréditation supérieure à la vôtre, et je suis en charge de cet interrogatoire. Vous vous voyez donc doublement dénié le droit de me poser de telles questions. Je vous pose une question, vous y répondez. Je reprends donc : pourquoi n'êtes-vous pas un bon clarificateur ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Je vous demande pardon ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola commence à perdre patience devant tant de mauvaise volonté. Comment faire confiance à un tel clarificateur ? C'est comme s'il venait d'un autre monde.</em><br />Votre incapacité à obéir aux ordres de l'Ordinateur n'est que de votre faute. Si vous étiez un bon clarificateur, vous pourriez les exécuter. Pourquoi n'êtes-vous pas un bon clarificateur ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Parce que l’Ordinateur m’a donné des ordres que je suis incapable d’exécuter, ce qui nuit gravement à mon bonheur. Il ne m’a même pas fourni les resources nécessaires à leur exécution. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Vous insinuez tout de même que l'Ordinateur est déréglable, comme s'il était défectueux et incapable de veiller à sa propre sécurité. Ce sont de graves accusations, pourquoi les faites-vous ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Non, Clarificateur. L'Ordinateur n'est pas déréglable par des Citoyens du Complexe. C'est impossible. Mais nous ignorons tout de ce que peuvent faire ces sacrés commies… </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> J'ajoute que je suis affecté au service SE, la défense du complexe ne rentre donc pas dans mes attributions. Si l’Ordinateur m’avait réaffecté au service idoine, j’aurais exécuté ses ordres avec joie. Mais je ne peux pas exécuter des Ordres dont la finalité sort clairement de mes attributions. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Vous insinuez donc que l'Ordinateur serait déréglable au point de donner des ordres nuisibles, et donc défectueux ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Mon principal suspect est Janice-R-TECH, qui a eu accès ouvertement au BIOS de l'Ordinateur, à la demande de ce dernier. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Je soupçonne les commies d’avoir accédé illégalement à l'Ordinateur et de l'avoir déréglé. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Vous venez donc de décrire les ordres de l'Ordinateur comme « nuisibles ». Qu'avez-vous à dire pour votre défense ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> Ils émanent de l'Ordinateur. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> Pouvez-vous me rappeler de qui émanent les ordres qui vous ont été donnés, clarificateur ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> A ma connaissance, Clarificateur, on me reproche d’avoir refusé de nuire au bonheur de mes compatriotes. On me reproche également d’avoir refusé d’endommager l’intégrité structurelle du Complexe Alpha. </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Finola range son blaster à la ceinture, bien visible.</em><br />Commençons donc. Restez debout contre le mur. Quels sont les faits qui vous ont été reprochés ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1970px !important;"></div> <p><span class="buddy">Gioele :</span> <em>Se présent à la salle d’interrogatoire, l’air méfiant mais néanmoins sûr de lui</em> Je suis Gioele-O-SE, Clarificateur. Je me présente à vous conformément aux directives de l'Ordinateur. Je me ferais une joie de répondre à vos questions. </div>
