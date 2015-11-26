@@ -1,0 +1,33 @@
+{ 'name': "Stephen et Chao bourrés en expédition", 'cat': "divers" }
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> 
+Roland... Heu... Je ne crois pas qu'il ait testé... Enfin, je n'en sais rien en fait. J'y ai pas demandé. Kuan Ti, j'pense que si, mais il m'a pas dit avec qui puis... Il a voulu testé avec moi et ça ne m'a pas plut... <em>Prend la nouvelle bouteille d'un air incertain.</em> Moi ça m'plairait bien d'en avoir un de petit clarificateur, si c'est avec elle. J'ai pas bien compris comment il est sensé venir. Tu crois qu'elle en a un dans le ventre là, Paola ? Ce serait bien... Oui, je serais content... <em>Déprimé.</em> Paola, elle y croit à l'amour, mais des fois je me demande si elle ne préfère pas ce Kivanç à moi... </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+R... Roland ? Lui aussi, il a... ? Ouh lala, l'ordo... l'ordino... l'or-di-na-teur serait pas content s'il savait que la moitié des claf... flac... des gens s'envoient en l'air dans le complexe. <em>Termine sa bouteille et en tend une nouvelle à Chao.</em> P... pourtant je croyais que Paola croyait à l'amour... Janice, elle sait pas. Je crois qu'elle veut continuer à tester, parce que ça lui a plu <em>ne peut retenir un sourire fier et très niais</em> mais elle croit pas que l'amour existe. Et pi elle a peur de... d'avoir un enfant, alors ch'est... compliqué... </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> 
+<em>Continue à pleurer, incapable de s'arrêter maintenant qu'il a laissé tomber sa façade de gros dur.</em> Elle a dit qu'on était peut être pas compatible, alors moi... J'ai peur qu'elle... Parte avec quelqu'un d'autre. <em>Pose une grande main qui se veut réconfortante sur l'épaule de Stephen.</em> Elles doivent pas être faites pareil... L'Amour ça existe pas pour elle. Roland, il m'avait expliqué... Ca avait l'air bien, mais je crois que c'est un truc d'homme... L'autre qui m'a expliqué, c'est Kivanç... Pareil, c'est un homme. <em>Reprend la bouteille pour s'en enfiler trois grandes gorgées.</em> Tu crois qu'il n'y a que les hommes qui peuvent aimer ? Pourtant, bon sang qu'elles sont belles... Surtout Paola... </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+<em>Regarde Chao d'un air ahuri.</em> Eh ben... pleure pas, mon grand, ces... <strong>femmes</strong> valent pas qu'on verse des larmes pour elles. Ou... en fait si. Parce que moi, ça s'est... <em>devient rouge comme l'œil de l'ordinateur</em> bien passé, et pour elle aussi, enfin ch'crois, mais... elle m'aime quand même paaaaaas. <em>Éclate en sanglots sur l'épaule de Chao.</em> </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> 
+<em>Se calme pour retomber dans le mutisme en finissant sa bouteille.</em> Ah... Heu... N'en parle pas à l'Ordinateur surtout... Oui, je voulais essayer et elle a accepté mais... Ca ne s'est pas bine passé. <em>La tête basse</em> Je crois que je ne sais pas bien m'y prendre... <em>Prend par lui même une autre bouteille, bien qu'il n'ait vraiment pas l'alcool joyeux</em> Elle dit qu'elle ne sait pas si elle m'aime... Moi je préférerais crever que d'en être séparé... <em>Le grand gaillard se met à pleurer comme un enfant.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+<em>Stephen a un mouvement de recul et tombe presque de son rocher.</em> Paola ? Ah non alors, chertainement pas. C'était avec... <em>plus bas</em> Janice. Je... je l'aimais... bien, et je croyais qu'elle aussi, et puis... <em>marmonne des mots indistincts et boit une nouvelle rasade.</em> Alors comme ça, vous aussi vous avez fait... ça ? </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> 
+<em>Retient Stephen par le bras pour l'empêcher de tomber, et s'assied sur une pierre en aidant le clarificateur à faire de même.</em> Ah... Vous avez... Fait ce genre d'expériences... <em>Prend une bouteille et se remet à boire.</em> Moi aussi... Quelle femme ? Est-ce Janice-R-Tech ? <em>Avisant une autre possibilité, il se retourne brutalement vers Stephen, furieux.</em> <strong>Tu n'as pas toucher à Paola, j'espère ?!</strong> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+<em>Décapsule deux autres bouteilles avec sa pince à épiler et en tend une à Chao.</em> Chais pas si c'est autorasé... auti... permis par l'ordinateur, mais cha fait du bien. Ch'savais que cha vous plairait, Chaovipli. <em>Lui donne une tape sur l'épaule, puis se rembrunit.</em> Ah... les femmes. Elle... elle m'avait laissé comprendre qu'elle ressentait ce dont parle de Vik.. Kivanch. Alors elle... elle m'a emmené à l'infirmerie et on a testé... des turcs... trucs... mais <strong>chut</strong>, l'ordinateur veut pas qu'on en parle. <em>Met un doigt sur ses lèvres et trébuche sur un caillou, se raccrochant à Chao.</em> Et après elle m'a dit qu'elle m'aimait paaaaas. </div>
+
+<div class='message'> <div class="char chao" style=""></div> <p><span class="buddy">Chao :</span> 
+<em>Prend une bouteille et renifle le contenu.</em> Qu'est-ce que c'est, clarificateur ? Êtes vous sûr que ce breuvage est accepté par l'Ordinateur ? <em>Mais autour d'eux, il n'y a que la nature sauvage, alors le grand violet ne se fait pas prier.</em> C'est plutôt bon en fait. <em>Boit la sienne en entier.</em> Qu'est-ce que... Vous savez des femmes, clarificateur ? Qui vous a promis quoi et que vous a t-elle fait ? <em>Prudent</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+J'sais pas vous, mais moi, je commence à en assez av... à en avoir assez des <strong>femmes</strong>. Qu'est-ce qui ne tourne pas rond chez elles ? Elles vous promettent des choses, vous... <em>rougit et bafouille</em> f-f-font des choses, et après, elles brisent votre coeur. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> 
+<em>Sort du dôme en titubant malgré l'absence de combinaison, et laisse Janice et Finola prendre de l'avance. Fouille dans son sac à dos, qui émet quelques tintements étranges.</em> Hey, Claric... clafout... clarificateur Chaovipli. Ça vous d... dirait, un p'tit remontant ? <em>Sort de son sac une petite bouteille brune.</em> </div>

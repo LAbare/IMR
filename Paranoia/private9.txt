@@ -1,0 +1,42 @@
+{ 'name': "Eleesha fait flipper les mutants, le retour", 'cat': "mush" }
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle soupire, se prend la tête dans les mains.</em> Chao peut s'occuper de cela sans avoir à ôter quoi que ce soit d'autre que sa vie. Il est équipé pour ça. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Euh... tu voulais dire quoi, au fait ? Demander à Chao d'enlever sa combinaison ? Ah non alors. Là c'est Paola qui m'étriperait. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> <em>Bafouille.</em> Non mais je n'en ferai rien, c'était juste une idée en l'air, comme ça. T'ai-je dit que ce teint verdâtre te seyait parfaitement, mon amour ? </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle verdit de jalousie à cette idée, mais n'en dit rien.</em> Demandez donc à Chao. Je suis déjà dehors, moi. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Si c'est <strong>moi</strong> qui enlève ma combinaison, ça peut marcher aussi ? Je n'aurais plus de couleur si je... <em>croise le regard noir de Finola et se tait.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Hrmpf, mais c'est qu'il insiste, le bougre. <em>Tente d'envoyer un uppercut du droit sur Eleesha, mais une étrange force le repousse et envoie son poing dans le mur.</em> Mais AAAÏEUH. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Bonne idée. Que pensez-vous d'Eleesha ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Ah. Certes. En lui sacrifiant quelque chose ? </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Rendre hommage à notre Ordinateur béni, évidemment. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Prier ? Qu'est-ce donc ? </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> ... Priez pour que je meurs dans cette explosion, Stephen. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Je parlais d'Eleesha, hein, bien entendu. Il ne me viendrait pas à l'esprit de déshabiller Jan... oh, wait. Enfin, plus maintenant. <em>C'est ça, continue à creuser et à t'enfoncer.</em> Euh, je veux dire, je ne voudrais pas attaquer Janice, quoi. C'est de l'autre dingue que je parlais. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> L'Ordinateur veut nous faire exploser, et vous songez encore aux couleurs ! <em>désemparé</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Je... euh... je ne discute pas, mais à moins de... <em>gloups</em> la déshabiller, je ne vois pas comment l'arrêter. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Évidemment. Il faudra que tu t'échappes aussi. Janice connait une faille dans le système permettant d'empêcher les mutants d'agir. Elle peut s'en servir, également. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Elle ne doit pas passer, Stephen. C'est indiscutable ! </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Par contre, il faudra me dire quand je dois laisser passer Janice pour qu'elle s'échappe. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Ouh la, c'est vraiment si grave ? Bon, ok, j'arrive. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Même... même avec une petite pillule... ? <em>désespéré</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Euh... qui donc ? Eleesha ? Elle est si monstrueuse que ça ? Panne de sèche-cheveux, rupture de bigoudis ? (Je l'aurais bien fait, mais je garde mes forces pour éventuellement virer des gens en baie icarus.) </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Je sais que ça parait beaucoup demander mais... mais quelqu'un pourrait... garder le couloir avant... pour moi ? J'aimerais ne pas passer les derniers moments de ma vie à devoir faire face à ce monstre. </div>

@@ -1,0 +1,24 @@
+{ 'name': "Eleesha fait flipper les mutants", 'cat': "mush" }
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> L'enveloppe est déjà bien timbrée, je crois... </div>
+
+<div class='message'> <div class="char roland" style=""></div> <p><span class="buddy">Roland :</span> Hein ? Heu.. Rien, rien ! <em>Roland sourit bêtement mais son sourire ne dure pas.</em> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Quelqu'un a un timbre pour poster l'enveloppe par spacemail dans une galaxie très loin d'ici ? </div>
+
+<div class='message'> <div class="char eleesha" style=""></div> <p><span class="buddy">Eleesha :</span> <strong>Hin Hin Hin hin. Eleesha ....Eleesha n'est plus qu'une simple enveloppe. Elle n'existe plus. Tu devrais savoir cela Ro...land.</strong> </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Oui, Roland ? </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Merci, mon amour. </div>
+
+<div class='message'> <div class="char roland" style=""></div> <p><span class="buddy">Roland :</span> Hmm... </div>
+
+<div class='message'> <div class="char " style="background-position : 0px -1921px !important;"></div> <p><span class="buddy">Finola :</span> <em>Elle sourit à Stephen.</em> Eleesha, montez dans un patrouilleur, c'est un ordre. </div>
+
+<div class='message'> <div class="char stephen" style=""></div> <p><span class="buddy">Stephen :</span> Eleesha, montez dans un patrouilleur, c'est un ord... zut, je peux pas. Oh, et puis zut : c'est un ordre. </div>
+
+<div class='message'> <div class="char jin_su" style=""></div> <p><span class="buddy">Jin Su :</span> Je ne te laisserais pas toucher à un seul cheveu de Janice, Eleesha. </div>
+
+<div class='message'> <div class="char roland" style=""></div> <p><span class="buddy">Roland :</span> <em>Serre les dents.</em> Pas maintenant, Eleesha... </div>
+
+<div class='message'> <div class="char eleesha" style=""></div> <p><span class="buddy">Eleesha :</span> <strong>Vous ne pouvez pas FUIR!! Hin hin hin Hin Ha HA Hhha</strong> </div>
