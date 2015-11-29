@@ -122,9 +122,13 @@ for priv in privates:
 	dest.write("<div id='" + priv + "' class='private'>\n")
 	dest.write("\t<h1>" + privates[priv][0] + "</h1>\n")
 	for l in privates[priv][1]:
-		dest.write(l)
-	dest.write("</div>\n")
+		dest.write("\t" + l)
+	dest.write("\n</div>\n\n")
 
-dest.write('</body>\n</html>')
+dest.write("<script>\n" +
+"var cats = document.getElementsByClassName('cat');\n" +
+"for (var i = 0; i < cats.length; i++)\n" +
+"	{ cats[i].style.display = 'none'; }\n" +
+"</script>\n</body>\n</html>")
 f.close()
 dest.close()
