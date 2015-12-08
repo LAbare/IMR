@@ -1,21 +1,18 @@
 // ==UserScript==
 // @name     SaveChat
-// @version  0.9.1
-// @match    http://mush.vg/*
+// @version  0.9.2
+// @match    http://mush.vg/
 // @match    http://mush.vg/#
-// @exclude  http://mush.vg/tid/forum
-// @exclude  http://mush.vg/theEnd/*
-// @exclude  http://mush.vg/expPerma/*
-// @match    http://mush.twinoid.com/*
+// @match    http://mush.vg/play
+// @match    http://mush.vg/?*
+// @match    http://mush.twinoid.com/
 // @match    http://mush.twinoid.com/#
-// @exclude  http://mush.twinoid.com/tid/forum
-// @exclude  http://mush.twinoid.com/theEnd/*
-// @exclude  http://mush.twinoid.com/expPerma/*
-// @match    http://mush.twinoid.es/*
+// @match    http://mush.twinoid.com/play
+// @match    http://mush.twinoid.com/?*
+// @match    http://mush.twinoid.es/
 // @match    http://mush.twinoid.es/#
-// @exclude  http://mush.twinoid.es/tid/forum
-// @exclude  http://mush.twinoid.es/theEnd/*
-// @exclude  http://mush.twinoid.es/expPerma/*
+// @match    http://mush.twinoid.es/play
+// @match    http://mush.twinoid.es/?*
 // ==/UserScript==
 
 var console = unsafeWindow.console;
@@ -33,7 +30,7 @@ Main.SaveChat.loadMoreWall = function() {
 Main.SaveChat.afterWallLoad = function() {
 	var datak = $('#cdStdWall').find(".wall .unit").last().attr("data-k");
 	if(datak == Main.SaveChat.k) {
-		alert('Mur chargé !');
+		alert('Mur chargé !');
 		$('#chatBlock').attr('onscroll', "Main.onChatScroll( $(this) ); return true;");
 	}
 	else {
@@ -44,9 +41,14 @@ Main.SaveChat.afterWallLoad = function() {
 };
 
 $('<div>').html("<div class='butright'><div class='butbg'>Charger tout le canal général</div></div>").addClass('but').appendTo($('body')).bind('click', function() {
+	Main.selChat(5);
 	$('#chatBlock').attr('onscroll', "Main.onChatScroll( $(this) ); if (Main.lmwProcessing) { var chatloading = window.setInterval(function() { if (!Main.lmwProcessing) { clearInterval(chatloading); Main.SaveChat.afterWallLoad(); } }, 100); return true; }");
 	Main.SaveChat.loadMoreWall();
 });
+
+function fixUrls(text) {
+	return text.replace(/src="\/\//g, 'src="http://').replace(/src="\//, 'src="http://' + document.domain + '/');
+}
 
 //Canal général
 $('<div>').html("<div class='butright'><div class='butbg'>Copier le canal général</div></div>").addClass('but').appendTo($('body')).bind('click', function() {
@@ -56,22 +58,24 @@ $('<div>').html("<div class='butright'><div class='butbg'>Copier le canal géné
 	t.val('');
 	for (i = 0; i < s.length; i++) {
 		if (/mainmessage|bubble|char|neron|buddy/.test(s[i])) {
-			t.val(t.val() + s[i] + "\n");
+			t.val(t.val() + fixUrls(s[i]) + "\n");
 		}
 	}
-	alert("Fini !");
+	alert("Fini !");
 	window.scrollTo(0, document.body.scrollHeight);
 });
 
 //Favoris
 $('<div>').html("<div class='butright'><div class='butbg'>Copier les favoris</div></div>").addClass('but').appendTo($('body')).bind('click', function() {
+	if ($('#cdFavWall').size() < 1)
+		{ return; }
 	var s = $('#cdFavWall').html().split("\n");
 	var t = $('#chatSavingTextarea');
 	t.css('display', 'block');
 	t.val('');
 	for (i = 0; i < s.length; i++) {
 		if (/mainmessage|bubble|char|neron|buddy/.test(s[i])) {
-			t.val(t.val() + s[i] + "\n");
+			t.val(t.val() + fixUrls(s[i]) + "\n");
 		}
 	}
 	window.scrollTo(0, document.body.scrollHeight);
@@ -89,36 +93,32 @@ for (var i = 0; i < privates.length; i++) {
 
 	$('<div>').html("<div class='butright'><div class='butbg'>Copier le canal privé</div></div>").addClass('but').appendTo(p).bind('click', function() {
 		var s = $(this).parent().html().split("\n");
-		var t = $('chatSavingTextarea');
+		var t = $('#chatSavingTextarea');
 		t.css('display', 'block');
 		t.val('');
-		var paragraph = false;
+		var result = "";
 		for (i = 0; i < s.length; i++) {
 			if (/cdBroadcastLog|cdMushLog\s+cdChatLine/.test(s[i])) {
-				t.val(t.val() + "<div class='log'> ");
-				paragraph = false;
+				result += "<div class='log'> ";
 			}
 			else if (/cdChatLine/.test(s[i])) {
-				t.val(t.val() + "<div class='message'> ");
-				paragraph = true;
+				result += "<div class='message'> ";
 			}
 			else if (/class=["']buddy/.test(s[i])) {
 				var char = s[i].match(/>(.*)</)[1].replace(/:/, '').trim().replace(/ /, '_').toLowerCase();
-				t.val(t.val() + "<div class='char " + char + "'></div> <p>" + s[i].replace(/\s+/g, ' '));
+				result += "<div class='char " + char + "'></div> <p>" + s[i].replace(/\s+/g, ' ');
 			}
 			else if (/<p>/.test(s[i])) {
-				t.val(t.val() + s[i].replace(/\s+/g, ' ').replace(/<p>/, ''));
+				result += fixUrls(s[i]).replace(/\s+/g, ' ').replace(/<p>/, '');
 			}
 			else if (/<strong>/.test(s[i])) {
-				t.val(t.val() + s[i].replace(/\s+/g, ' '));
+				result += s[i].replace(/\s+/g, ' ');
 			}
 			else if (/class=["']ago/.test(s[i])) {
-				if (paragraph) {
-					t.val(t.val() + '</p>');
-				}
-				t.val(t.val() + ' </div>\n\n');
+				result += ' </div>\n\n';
 			}
 		}
+		t.val(result);
 		window.scrollTo(0, document.body.scrollHeight);
 	});
 }

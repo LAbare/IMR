@@ -1,0 +1,714 @@
+{'name': "Panique à bord", 'cat': "divers"}
+    <div class='log'>  <strong>Eleesha</strong> a rejoint la discussion. </div>
+     
+    <div class='log'>  <strong>Roland</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Zut je ne peux pas contacter Raluca. Je peux récupérer le second blaster s'il le faut.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> moi je ne peux rien faire j'ai ete a 4 reprise pour eteindre chaque incendie ce matin (en sdm et icarus) pas eu de chance....</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Bon je vais vérifier mon état d'infection s'il y a action de transfert mon petit mot secret sera Elee (ok ?)</p> </div>
+     
+    <div class='log'>  <strong>Raluca</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Voilà, je voulais des personnes de confiance.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Il y a d'autres feux ?</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Non les feux sont éteint</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Sans la disquette nous ne pourrons la sauver malheureusement mais Hua a agit à la hâte c'est rageant !!</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> C'est bon, je suis cleen. Et je peux prouver mon humanité si quelqu'un me soigne. J'ai attrapé la migraine en assistant au meurtre.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> la mycoalarme est cassée !</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Pauvre Janice <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Le cessez le feu dure 3 cycles !</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> c'est dommage de devoir la tuer elle.... mais si pas de disquette ya pa sle choix,du coup faudra trouver l'autre et le soigner... puis je commence a avoir un mauvais moral..... <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> On doit attendre alors...</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Roland, Chao n'a pas le moral non plus faites vous des câlins <img src="http://data.twinoid.com/img/smile/square/wink.png" alt=";)" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Ce qui m'inquiète c'est que le dortoir alpha n'est plus protégé.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> avec un homme? arf non, je prefererai le chat je l'ai pas encore caliner mais je sais pas ou il est et surtout je peux pas trop bouger</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je suis clean donc il reste Stephen, Terrence ou Hua avec un spore.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Janice est sortie. ~4h<br>DRIIIIIIIIIIIIIIIIIIIIIIIIIINNNNNGGGGG!!!! ~4h<br>Janice est entrée. se sont les logs de l'infirmerie, Gioele y est allongé, se doit être lui qui a reçut le deuxième spore.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> 4 tentatives sur le simulateur et toujours en rade...</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> surement alors, car y avait rien dans la baie icarus par la ou etait passer kuan ti et janice (mush les 2 donc )</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Je vais rester au labo, je n'ai plus la force de bouger de toute façon et mon moral va plutôt bien.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Raluca, je peux essayer pour le simulateur ?</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Justement nous devons craindre la réaction du second mush, s'il était aussi dormant jusqu'à maintenant l'action en cours pourrait lui donner des idées.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Tu n'es pas technicienne, tu risque de juste gaspiller des forces je pense. Il vaut mieux en garder pour Janice.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Ok, je garde mes forces, j'ai le blaster. Je peux récupérer l'autre si besoin. Mais je n'ai pas confiance en Chao. Hua reste suspecte : pratique d'agir dans la précipitation...</p> </div>
+     
+    <div class='log'>  <strong>Chun</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> c'est vrai que hua a ou pas reflechit ou ca l'arrangeait de tuer un innocent....</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Bon, d'abord, je dois récupérer un extincteur.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ensuite, où en est le sérum ? On a moyen de le finir dans les trois heures ?</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> non janice a pris la disquette,c'est pas possible du coup</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah. Pas bête.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> pour l'extincteur faut le demander a chao, l'autre est soit sur janice soit dans les reste de kuan ti soit cacher....</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Eleesha a dit qu'elle en avait un, je crois.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> surement celui que chao avait pris alors</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je l'ai déposé sur l'étagère du labo.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> ... Devant le ou les mush ? <img src="http://data.twinoid.com/img/smile/square/huh.png" alt="O_o" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Elle a les mains pleines.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ben oui, mais l'autre ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> C'est Chao qui l'a. Il a éteint l'incendie.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Non, l'autre mush. Il aurait pu prendre l'extincteur.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> oups pardon. <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Bref. Vous avez combien de PA ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> J'ai juste une énorme migraine qui m'empêche de réfléchir correctement.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> La première chose à faire, c'est de réparer le simulateur. On va gaspiller des PA pour rien, sinon.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je suis plus que prête à en découdre.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je récupèrerai le couteau quand il le faudra.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je veux garder des forces.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Raluca ne peut pas le faire ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Il y a l'autre blaster pas loin. J'en ai un sur moi déjà.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Raluca a essayé, elle n'y est pas arrivée.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Hrmpf. L'un de vous a des PM pour trouver le drone ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ou les anabolisants sont avancés ? (je ne crois pas)</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Euh... et sinon, Roland, vous avez des problèmes de moral ? <img src="http://data.twinoid.com/img/smile/square/redface.png" alt=":}" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> ahhh ben voilà !</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Est-ce que je reste là ou bien je vais me poster au dortoir alpha pour surveiller ce qu'il pourrait se passer ? Je ne suis pas tranquille. A moins de mettre une mycoalarme là-bas en attendant ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Hmm. Prenez la mycoalarme de l'infirmerie.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> D'accord. Je vais la mettre là-bas.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> J'invite Gioele, il était certifié humain hier et il a prit un spore tout à l'heure au passage de Janice, ce n'est pas assez pour l'avoir contaminé.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Ok, j'étais déjà en train de discuter avec lui.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Je ne peux pas il discute déjà avec trop de monde ^^</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Je n'ai plus la moindre force, je ne pourrais quitter les lieux pour m'isoler qu'après le changement de cycle mais je vois quelqu'un a l'infirmerie, c'est vous chun ? Je pourrais m'y rendre ensuite pour m'isoler ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je vais bouger.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je peux prendre la mycoalarme de l'infirmerie ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Betapropyl pour 1 <img src="http://mush.vg/img/icons/ui/moral.png" alt="moral">.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ben du coup, si Raluca reste à l'infirmerie... c'est risqué.</p> </div>
+     
+    <div class='log'>  <strong>Gioele</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Voilà monsieur Rinaldo est disponible.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Bon. Pilotage re-bloqué, bouclier réactivé, paramètres remis en ordre.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Qui est au nexus ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Il faudrait un gardien dans le couloir arrière</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Moi. J'ai bidouillé pour rétablir les paramètres de Néron.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je ne peux pas m'en charger pour des raisons évidentes, mais il en faut un rapidement. Janice ne doit pas pouvoir débloquer à nouveau le pilotage.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je peux toujours le faire, j'ai l'armure. Dites-moi si elle bouge.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Eleesha, on tente d'imprimer la liste ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> L'idéale serait que Chun garde et que Ian vienne la protéger. Je vais tester son humanité dès qu'il se réveillera.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Il ne faut pas attendre qu'elle bouge, mademoiselle Chun, sinon on aura pas le temps de mettre un gardien en place. Il nous en faut un maintenant.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> J'attends au moins le prochain cycle, ça m'étonnerait qu'elle bouge dès le premier cycle du cessez-le-feu.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Chun, vous voulez que j'imprime cette miste ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Peut-être... Vous en pensez quoi ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Stephen vient d'arriver au laboratoire.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je pense qu'il ne faut pas. Gardons la pour nous assurer qu'il n'y a plus de Mush.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je préfère attendre un peu aussi.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ok, pas de souci.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Trop de monde au labo, je n'aime pas ça du tout !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Attendez la fin du cycle (le simulateur n'a pas encore redémarré) et ensuite faudra soit bouger de là, soit être prêt à bouger si Janice sort.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Terrence qui garde la souche, ça pars d'un bon sentiment mais ce n'est pas forcément la personne dont on est le plus sûr.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> La souche n'a pas la moindre importance avec le décodage de Xyloph. Qu'il la garde si il veut.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ça part d'un bon sentiment mais c'est totalement inutile. C'est la disquette qui ne peut pas être remplacée, la souche on s'en fout.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Vous êtes blessé Gioele ? Parce qu'effectivement si vous vous faites soigner par Ian cela le certifiera humain, moi malheureusement le doute planera toujours.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Autant pour moi, je n'ai pas une grande connaissance de vos recherches au labo.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Qui est en contact avec Finola, au fait ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Ne vous inquiétez pas pour mes soins, je vais voir directement avec Ian quand il sera réveillé. Oui, je suis même bien blessé, et je ne me ferai soigner que pour enlever ce spore... Si le Mush est plus rapide, mon corps sera plus facile à tuer.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Elle est restée en baie Icarus.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah, je suis bête, elle a sûrement lâché son talkie.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Je n'avais pas d'autres idées en tête que de vous laisser vous faire soigner par Ian, cela me réconforte un peu de savoir que quelqu'un d'autre va goûter à ces techniques très... particulière.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Quelqu'un peut vérifier si le chat est sain ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Quelqu'un qui n'a pas de PA, de préférence</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Chao me demande ce qu'on fait une fois le cessez-le-feu terminé. Je le pense maintenant de bonne fois, il a pris sa compétence robuste lorsque je lui ai demandé de sortir Ian ou Janice de la pièce, nous n'avions pas réalisé que nous étions sous couvre feu.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Quelqu'un a vérifié le chat hier non ? Moi je crois que je ne peux pas, il ne voudra pas me griffer.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Oui mais Stephen vient de le caresser.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Attention quand même à Chao. Il peut très bien demander ça pour savoir quels sont nos plans.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Le phero nous aurait dit s'il avait profité de la situation je pense.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Cela dit, il était actif quand Gioele a été poinçonné, non ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Ian vient de se réveiller, j'essaie de me faire soigner.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Non, le phéromodem ne montre pas ça. Il montre seulement si le chat infecte quelqu'un.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Oui je ne l'inviterais pas ici mais il a mangé un morceau pour essayer de la mettre à la porte et Kuan Ti avait qui je discutais un peu en privé m'indiquait ces craintes vis-à-vis de Chao et de ses non compétences. Avec le recul je me dit que Kuan Ti cherchait à mettre du discrédit sur Chao et cela va plutôt dans le sens d'une humanité possible maintenant que nous savons pour Kuan Ti.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah oui, en effet. Si Kuan Ti accusait Chao, c'est bon signe.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> C'est quoi tous ces gens à l'infirmerie ?</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> [hrp]J'dois vous abandonner encore, soyez fort et vigilant ^^</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Finola sale en dortoir beta</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Moi même, Ian qui vient me soigner, Raluca et Finola qui est seulement passée en coup de vent.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Elle a fait quoi ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Elle a mangé un cachet</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Si vous avez encore un doute sur mon humanité, j'ai toujours ma migraine à soigner. Je vais aller voir Finola.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Hmm.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Un Eufurysant</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Amenez-moi le médikit en dortoir beta, je dois me soigner aussi et j'ai des points de soin.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Il y avait un médoc à 3 <img src="http://mush.vg/img/icons/ui/moral.png" alt="moral">, mais je ne me souviens plus lequel.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Janice s'en est emparée</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah, zut.</p> </div>
+     
+    <div class='log'>  <strong>Ian</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> d'accord j'arrive alors. Mais non ! Janice/KT a le médikit !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> L'astropad donne les propriétés des médocs ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Paola s'est salie comment ? en réparant le tablier ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Peut-être. Impossible à savoir si personne ne l'a regardée avant.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Oh, z'allez pas m'liquider toutes les belles plantes d'c'vaisseau, hein ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Elle était propre en arrivant au labo.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> J'espère, monsieur Soulton... Et j'aimerais aussi garder ma fille en vie...</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Ian vous parlez de quel type de plantes ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> L'plantes d'types bipèdes, pour sûr.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> On parlera de... "jardinage" plus tard. Est-ce que quelqu'un peut me donner les propriétés des médocs ? L'eufurysant faisait quoi, et est-ce qu'on a quelque contre pour la migraine ? (ou alors Eleesha se soigne à l'infirmerie)</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Nuxe, soigne l'rhume, pimp, c'pour l'manque d'v'tamine, betapropyl, ça t'rend l'sourire et t'sors de ta d'pression, mais ça j'peux l'faire aussi, bacta c'est quand t'as la chiasse, foi du Ian, ou la r'beole, et l'xenox c'est pour les migraines chroniques. Une xenox pour la 'sha. Et j'savais que j'vous étiez receptive à mes ch'rmes, Chunette !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Grmpfgmbl. On parlera de jardinage plus tard, j'ai dit. Bon, donc, l'eufumachin était celui qui donnait 3 <img src="http://mush.vg/img/icons/ui/moral.png" alt="moral">. Soit Finola l'a pris parce qu'elle manquait de moral, soit pour en priver les humains.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Eleesha, prenez un xenox, SVP.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> 'fin 'près ça d'pend 'videmment si c'est une p'tite m'graine, ou la grosse gueule d'bois. 'videmment.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> <em>grimace sous les élancements qui lui vrillent la tête</em> Je vais prendre un xenox alors.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Et il faudrait que quelqu'un vérifie si ce chat est toujours sain (à condition de pouvoir être soigné ensuite pour virer le spore).</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'viens d'lui faire un c'lin et il m'a griffé, l'sac, et j'me sens toujours comme un Ian en pleine forme.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Bien. Donc... Stephen l'a caressé, mais est-ce qu'un mush se serait amusé à faire semblant, là maintenant ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Monsieur Rinaldo, il me faudrait le tablier.<br>Finola qui prend un cachet et ne dit rien... elle aurait pu récupérer son trakie.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Elle l'a récupéré, elle est de nouveau joignable.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Eleesha, si vraiment le cachet confirme que vous êtes humaine, ne vous inquiétez pas de vous salir.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Pfff je veux le tablier ! pas envie de me salir</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Non mais, j'vous l'dis clairement, y a une diff entre migraine et migraine <em>chronique</em>, les pharmaciens c'est des salopards très pointilleux.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Bon je le prends devant tout le monde. <img src="http://data.twinoid.com/img/smile/square/smile.png" alt=":)" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> J'ai une migraine ! pas chronique. est-ce que c'est bon ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah zut. Chronique ou pas chronique, Eleesha ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C'pas bon, du coup. Voulez que j'aille casser la croute pour vous soigner à l'infirmerie ? C'pas comme si j'avais besoin de force.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Donc ce n'est pas bon <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"> <em>se reprend la tête entre les mains</em></p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Non, pas bon. Il faut un soin.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Non, ça ira. <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C'est pour montr'r qu'on a pas b'soin d'vous zigouller, c'est ça ? J'y tiens, on l'fait.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> <em>émet un petit rire crispé</em> pas besoin de me zigouiller ! C'est sympa ça... Je vous attends à l'infirmerie alors.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Vous voulez que je vienne vous soigner, mademoiselle Williams ? Un instant.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je préfèrerais aussi. Plus on a de certitudes et mieux c'est.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Oooooh, j'vous arrête tout d'suite Chaman, z'essayez de me filouter là ! Z'essayez qu'elle vous soit r'd'vable à vous !</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <em>Ausculte rapidement Eleesha.</em> Ce n'est vraiment pas grand chose. Je vais vous donner une injection de nanite, et ce sera finit en un rien de temps. <em>Lui prend le bras et fait rapidement une injection en intra musculaire.</em> Voilà !</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C't'un coup à c'qu'elle t'rmine en Réplicateur, ça.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <em>Soupire</em> Mais non, monsieur Soulton... Croyez moi, pour le moment j'ai bien mieux à faire que de draguer les dames, et de toutes façon je ne m'y serais pas pris de cette façon.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Boooon, résumons. Humains : Gioele, Ian, Eleesha et Roland, ici présents. Présomptions d'humanitude pour Hua (a pris ration + café pour tuer Kuan Ti), Stephen (a caressé le chat), Raluca (s'est sûrement fait poinçonner par Jin Su).</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Restent... <strong>Chao</strong> (suspect mais n'a pas transféré sur Gioele alors qu'il était présent), <strong>Paola</strong> (présente aussi + gaspillage de PA sur le tablier + a caressé le chat au début pour le moral... ou faire semblant), <strong>Frieda</strong> (idem pour le chat), <strong>Finola</strong> (a pris un médoc pour le moral et s'est lavée... pour faire semblant ?), <strong>Terrence</strong> (... ?)</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> J'oublie quelqu'un ou quelque chose ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Non, il me semble que la liste est correcte. Vous voulez que je tire les cartes sur l'avenir de chacun des suspects ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Allez-y, ça ne peut pas faire de mal. (Au passage, j'sais pas vous, mais je trouve les propos de Terrence assez ambigus.)</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <strong>Monsieur Soulton</strong>, j'aimerais que vous vous rendiez en couloir arrière pour rester auprès de mademoiselle Chun. Elle est en danger, et vous devriez pouvoir calmer les Mush si ils s'en prennent à elle.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'pourrais p'têt garder l'couloir avant, et un d'vous s'occupe d'l'infirmerie ? R'vient au même.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Non, ça ne revient pas au même parce qu'on ne sait pas qui est l'autre Mush. S'il vous plait... Vous parliez de protéger les dames, c'est le moment. Allez vous poster avec elle.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> En fait je garde le couloir arrière pour empêcher Janice de modifier le Bios de nouveau. Le problème de garder l'infirmerie et le couloir avant, c'est que ça la renverrait au labo. Avec une grenade.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Mais si vous êtes au labo, ça empêchera aussi les humains de tuer Janice et son complice.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> <em>a tressailli sous l'injection mais ne dit rien. Sent la pression sur son crâne se relâcher</em> Merci monsieur Rinaldo.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Qui a combien de PA, là ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> [11 pa et 2 pm]</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> paola est assez suspecte a gaspiller de l'energie pour un tablier inutile,et la base est pas faite...pendant ce temps la,ca lui donne une excuse a la noix pour ne pas la faire (et puis c'est pas celle du moral?)</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> moi pas grand chose je suis fatigué des incendies, j'ai que 4 de chaque la</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Je me tiens prête pour tuer le mush.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> concernant les degat de l'incendie c'etait l'antenne pour scanner et un reacteur je crois, j'avais laisser un drone dessus</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Si, c'est la base du moral. Mais pourquoi un mush gaspillerait des forces plutôt que de les garder en réserve pour la fin du cessez-le-feu ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> A qui puis-je confier le second blaster ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Vous ne pouvez pas le garder et utiliser les deux ?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Oui, je vais aller chercher l'autre. hihi un dans chaque main !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Le cessez-le-feu se termine dans 2h, au fait.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> V'là, v'là. Z'inquiétez pas, Chunette, si vous p'niquez y aura t'jours mes bras musc'leux pour vous r'cevoir.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Merci bien, monsieur Soulton.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> <em>Raffermit ses mains sur les deux crosses des armes</em> Je suis prête.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> Paola est sortie. 10min<br>Paola a pris un Livre. 10min<br>Paola a lâché un Savon. 10min<br>Paola a pris un Savon. 10min<br>Paola a lâché un Livre. 10min<br>Paola est entrée.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> quel est ce livre? et est ce normal qu'elle ai les mains pleine?</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> elle etait sale avant quand elle a "sauver " le tablier?</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> non il ne me semble pas.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> P'rsonne peut l'dire, ça, R'land, p'rsonne peut l'dire. Mais si elle fait l'effort, sur l'base, j'vois pas d'inconvéniant à pas la croire saine, et j'dis pas seulement ça parce qu'elle est pas désagréable à r'garder, sauf votre respect, chaman.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je pense que ça doit être l'apprentron Cuistot. J'ai signalé hier qu'il avait disparu.</p> </div>
+     
+    <div class='message'> <div class='char eleesha'></div> <p> <span class="buddy"> Eleesha :</span> Dans l'incendie, on a perdu l'apprentron botaniste. Quel dommage <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Croisons les doigts pour les autres...</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Quelqu'un peut aller voir sur le pont où en sont Xyloph et la base rebelle ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Et qui est en baie beta ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je peux y aller et rester avec elle pour le cycle.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Attention, Janice bouge !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Tuez-la. Vite.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Attention au transfère, un nouveau poinçon !</p> </div>
+     
+    <div class='log'>  <strong>Eleesha</strong> a quitté la discussion, elle a quitté notre monde. </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Chao</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Frieda a transféré dans Chao...</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Récupérez le chat</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> donc faut vite tuer chao et janice</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ou est le chat <img src="http://data.twinoid.com/img/smile/square/cry.png" alt=":'(" class="tid_ico"> je suis plus qu'a 5</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Janice, c'est fait. Il reste Chao à éliminer.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> J'ai le chat dans mes bras, Roland. Attendez... On termine Chao et je vous le passe.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Où est Chao ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Couloir avant sans doute</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Une ration posée au laboratoire, et j'ai un blaster. Chun, vous le voulez ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ration demandée en baie alpha, urgent. J'ai le couteau.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> ... 'sha... Et mon ruban !</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je n'ai pas la force de vous l'apporter... Soulton, occupez vous en ! N'hésitez pas à manger.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Il a pris plein de coups de couteau, il doit être presque mort, mais je suis à sec.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'peux même plus m'déplacer, chaman.</p> </div>
+     
+    <div class='log'>  <strong>Terrence</strong> a rejoint la discussion. </div>
+     
+    <div class='log'>  <strong>Stephen</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Mayday, mayday, Chao à tuer en baie alpha. Ou alors amenez-moi une ration, please.</p> </div>
+     
+    <div class='log'>  <strong>Hua</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ouf, merci Hua.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ayai me vla demoralisé <img src="http://data.twinoid.com/img/smile/square/cry.png" alt=":'(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char hua'></div> <p> <span class="buddy"> Hua :</span> Moi aussi <img src="http://data.twinoid.com/img/smile/square/sad.png" alt=":(" class="tid_ico"> Je veux un caliiiiiiiiin</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Du calme, du calme. Gioele va lâcher le chat.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je pose le chat au laboratoire, Roland.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Et on a... 6 femmes pour 5 hommes ?</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> c'est loin le labo,possible qu'il soit ramener vers l'arriere?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Bon... Sans la base, je crois qu'il va falloir donner de nos personne... Moi je me sens assez bien. N'oubliez pas qu'il y a de fortes chances qu'il reste un Mush, sans quoi je ne vois pas pourquoi ils s'en seraient pris à Eleesha.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Non, impossible. Je suis épuisé.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <strong>Monsieur Archer</strong>, quittez l'infirmerie. Ne restez pas avec Raluca.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ou nous le faire croire... quoi qu'il arrive on a le pheromodem pour nous l'indiqué si il se passe un truc</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> Je ne peux pas quitter l'infirmerie : je suis vidé. Quelqu'un veut bien mettre ma carcasse sans âme à la porte..? Ou me jeter dans l'espace, c'est très bien aussi.</p> </div>
+     
+    <div class='log'>  <strong>Finola</strong> a rejoint la discussion. </div>
+     
+    <div class='log'>  <strong>Paola</strong> a rejoint la discussion. </div>
+     
+    <div class='log'>  <strong>Frieda</strong> a rejoint la discussion. </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Monsieur Archer, quittez l’infirmerie immédiatement au lieu de dire des bêtises, vous savez bien que Raluca va vous pousser pour sortir.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Récap moral : qui en a le plus besoin ? (Oui je sais, c'est un risque, mais autant organiser les couples... j'suis romantique, hein ? <img src="http://data.twinoid.com/img/smile/square/happy.png" alt=":D" class="tid_ico">)</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Charmant... Enfin, je préfère ça aux mariage. Quel romantisme mademoiselle Chun, vous pourriez même m'intéresser. J'aime votre vision du couple.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'suis plutôt proche du suicide, j'dois dire, la moindre baisse et scouik.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Est-ce une offre, Mr Rinaldo ? <img src="http://data.twinoid.com/img/smile/square/happy.png" alt=":D" class="tid_ico"> Et sinon, mesdames, qui peut aider Ian (et qui en a le plus besoin ?)</p> </div>
+     
+    <div class='message'> <div class='char finola'></div> <p> <span class="buddy"> Finola :</span> je ne me sens moi non plus pas très fringuante</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Parfait. Dr Keagan, voulez-vous prendre pour ép... partenaire le Dr Soulton ici présent ? Oui ? Vous pouvez donc vous retrouver à l'infirmerie.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Pourquoi pas après tout... Mettons que c'est une offre, mademoiselle Chun. Surtout que vous êtes la seule femme à ne pas rejeter sans le moindre intérêt les forces de l'invisible.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'aurais préféré votre compagnie, Chunette, y a pas à dire, y a comme un truc entre nous !</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> 'fin, ça c'sse l'moitié d'fun, j'refuse d'en arriver là, si j'dois m'trancher l'veines, j'l'f'rais !</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Il va falloir nous débarrasser des caméra en dortoir. Je sais que c'est un risque, mais je ne suis pas sûr que nous ayons le choix.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Allons, allons, Finola est charmante, et vous êtes biologistes tous les deux. Vous êtes faits pour vous entendre.</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> Je peux commencer par démonter les myco', ça fera toujours un début. Ensuite j'essaierai de m'étrangler avec la clé à molette</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> H'rs d'quest'on !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Non, on ne démonte rien du tout.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> On a besoin d'oxygène, de moral, de finir Pilgred. Alors on ne gaspille pas les PA là où c'est inutile.</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> <em>Avec le débris dans les mains.</em> Oups... désolé. Vous pensez qu'il y en a d'autres ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> ...</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> Je vais arrêter de toucher aux choses. Tout ce que je côtoie finit par rendre l'âme..</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Sinon, on peut aussi faire les recherches à triomphe, jouer au kube et assembler la sulfateuse...</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> Oui, c'est la base de moral aujourd'hui, il nous la faut. Paola ne peut pas manger ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C'foutu Stephen, zont bougé l'vaisseau.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Non, sérieusement, <strong>gardez vos forces pour l'essentiel</strong>. Et l'essentiel, c'est le moral, l'oxygène, les plantes. Pilgred ensuite, éventuellement.</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> Bon ben je suis dispo pour ces mesdames et pour scanner un coup.</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> Et la sépulture décente pour les morts, c'est accessoire ?! <img src="http://data.twinoid.com/img/smile/anim/angry.gif" alt="bad" class="tid_ico"> Les victimes humaines méritent une sépulture ! Et si vous êtes pas d'accord, je la ferai moi-même ! <em>Entasse des bouts de métaux et les fixe de sorte qu'ils représentent une espèce de crucifix.</em> Elle mérite de reposer en paix <img src="http://data.twinoid.com/img/smile/square/cry.png" alt=":'(" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Bon, il va falloir s'organiser. Pour commencer, que direz vous de retirer les caméra des dortoirs ? Et monsieur Soulton, ne faites pas l'enfant. Je sais ce que vous vouliez... Vous tenez votre chance alors survivez et faites ce qu'il faut pour.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ben faites une sépulture avec des débris en plastique, j'sais pas, moi, soyez inventifs.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'r'fuse, c'est indiscutable. J'mangerais des bananes.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ou sinon, Roland et Finola sont ensemble en dortoir beta... oh et puis débrouillez-vous, hein. Amusez-vous avec qui vous voulez, mais le premier qui se suicide, je l'étrangle.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Bon, j'irai chercher une planète au prochain cycle...</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> S'ra avec plaisir, chunette !</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ya une femme dispo au prochain cycle pour des galipettes?</p> </div>
+     
+    <div class='message'> <div class='char hua'></div> <p> <span class="buddy"> Hua :</span> C'est quoi des galipettes ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Allez le rejoindre au dortoir, miss Jiang... Il vous expliquera.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Grmpf. Roland et Hua, Finola et Ian, donc ? Qui d'autre a le moral bas ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je me sentait plutôt bien, mais maintenant, je n'en suis plus si sûr.. Enfin, je vais tenir le coup au moins le temps de trouver une planète... Oui, c'est le plus important.</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> Je me porte bien, étonnamment. Ça doit être l'alcool de graisse de moteur.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Mr Rinaldo, si... si vous voulez, je suis seule en dortoir alpha...</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <em>S'assoie devant le terminal astro et ferme les yeux pour se calmer.</em> Je vous remercie, mademoiselle... Et j'avoue que la proposition est très tentante. Je vais déjà essayer de trouver une planète avec de l'oxygène, et je viendrai vous rejoindre... J'aimerais autant que cette si romantique relation reste dans le monde des vivants.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ya une camera en beta...</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> en alpha aussi...</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Enlevez la, la caméra, Roland.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> c'est fait.. j'attend que chun me saute au cou</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Oh... eh bien... <em>regarde Ian et Gioele du coin de l'oeil</em> Je suis flattée par vos attentions, messieurs, mais... je crois bien que les clochettes de Roland sont irrésistibles.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Votre corps vous appartient, mademoiselle. Nous savons tous ici qu'il n'y a pas le moindre romantisme dans ces rapports..</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> <em>Pousse un soupir amer.</em> C'est bien encore la seule chose pour laquelle mon corps m'appartient.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ce fut rapide mais si intense... je n'oublirais jamais, z'etes pas enceinte j'espere?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je... euh... oui, en effet, ce fut rapide. Et... non, je ne crois pas être enceinte.</p> </div>
+     
+    <div class='message'> <div class='char hua'></div> <p> <span class="buddy"> Hua :</span> Jeune fille atteinte de crises paranoiaque au moral tres bas cherche moyen relativement rapide et efficace de lui rendre la joie de vivre. Si vous etes un homme et que vous pensez répondre aux critères, veuillez me joindre au 3615 Hua ou bien venez en dortoir Beta</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> N'oubliez pas non plus le chat...</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Pauvre bête... Enfin, vu la "rapidité" de certains, il ne devrait pas trop souffrir.</p> </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> Je suis l'ancien Chao ! Choppez le !</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Si personne ne répond à votre appel, miss Jiang, je viendrai et nous trouverons bien un moyen de vous remonter le moral... Mais j'aimerais trouver une planète, donc si un autre homme pouvait s'occuper de vous, ce serait préférable.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Faites attention, madame Bergmann, on dirait que les afflictions de votre nouveau corps embrument votre esprit. Il est mort depuis longtemps.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Laissez moi le pont avec ma fille, je dois trouver une planète en vitesse. Allez en dortoir, de toutes façons vous devez vous laver.</p> </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> Elle m'a laissé une ration alors que j'ai faim mais je me mefie. Chance tu la veux ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Cuisinez cette ration, tout simplement.</p> </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> Elle l'est déjà mais je suis passée au scandale et je suis vierges de spore</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Avant de l'avoir mangée ou après ?</p> </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> Avant. Sinon, il faut que ne nouvel Administratrice néron aille remettre le bouclier.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Ouvrez les yeux bon sang.. Il est remis depuis longtemps. Allez vous reposer en dortoir maintenant, il va falloir trouver une planète rapidement.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Tous les paramètres Néron sont remis dans l'ordre depuis un moment (sauf les inhibiteurs d'IA, mais on s'en fiche).</p> </div>
+     
+    <div class='message'> <div class='char terrence'></div> <p> <span class="buddy"> Terrence :</span> AdministratEUR, s'il vous plaît. Je tiens à conserver mon statut d'individu masculin, Frieda. Enfin si possible :l</p> </div>
+     
+    <div class='message'> <div class='char paola'></div> <p> <span class="buddy"> Paola :</span> Je veux bien faire des galipettes, moi aussi.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> <em>se réveille comme si de rien n'était après la bataille</em> Il c'est passé quoi ? Un autre transfert ou Chao était bien le deuxième mush ?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Trouve toi un gentil compagnon, ma puce... Je pourrai sortir un peu pour vous laisser votre intimité. <em>Regarde d'un air blasé sa petite fille qui devient grande trop vite.</em></p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Frieda était le deuxième mush, et elle a transféré sur Chao. Ils ont tué Eleesha et... c'est tout, je pense.</p> </div>
+     
+    <div class='message'> <div class='char paola'></div> <p> <span class="buddy"> Paola :</span> <em>Agrandit son décolleté et remonte un chouilla sa jupe. </em> Personne ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Ah, et ce canal est devenu le canal "Adopte un mec" (ou Meetic, ou ce que vous voulez). Donc, Miss Tomescu, si vous cherchez du moral, c'est ici qu'il faut demander.</p> </div>
+     
+    <div class='message'> <div class='char raluca'></div> <p> <span class="buddy"> Raluca :</span> Dire que Schrodi commençait a s'intéresser à Frieda... beurk...</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C'aurait été un plaisir dans d'autres c'rconstance, Paolette, mais l'vot' père l'a dit que j'devais pas vous f're d'mal !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> <em>Regarde Gioele du coin de l'oeil.</em> Sans vouloir déclencher la fureur rinaldienne, Paola a besoin de moral, vous avez besoin de moral, l'infirmerie est libre, donc... ben... allez-y, quoi.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Vous comptez lui faire du mal en vous... Occupant d'elle ? <em>Tape sur la main de sa fille pour qu'elle arrête de montrer ses atouts juste sous son nez.</em> Paola, je suis ton père ! Garde ça pour tes prétendants.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Sinon je crois que Finola et Hua ont aussi besoin d'un petit... euh... remontant.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je veux bien m'occuper d'une de ces deux dames... Si l'une d'elle est intéressée.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> J'voudr's pas qu'elle s'attache, comprennez, l'charme du Ian, ça laisse des tr'ces.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Suffira d'utiliser du détachant. Le K42R est très efficace, paraît-il.</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Je crois que nous sommes tous conscient de la situation, monsieur Soulton... Occupez vous de ma fille, s'il vous plait, je n'aime pas la voir dans un tel état...</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Quoiqu'il en soit j'suis à l'infirm'rie.</p> </div>
+     
+    <div class='log'>  <strong>Raluca</strong> a quitté la discussion, elle a quitté la pièce et n'a pas de talky.... </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> La ration n'était pas piégée, je vais de ce pas scanner !</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Frieda, ça vous arrive de lire, parfois ? Nous avons déjà une planète !</p> </div>
+     
+    <div class='message'> <div class='char frieda'></div> <p> <span class="buddy"> Frieda :</span> Rooooo laissez moi arriver et me remettre de mes émotions bordel !</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Bon, h'ben, si faut s'lancer<br><strong> fait claquer ses gants sur son bras</strong><br>Z'allez apprendre plein nouvelles choses.</p> </div>
+     
+    <div class='message'> <div class='char finola'></div> <p> <span class="buddy"> Finola :</span> j'aurais aussi besoin d'amour?</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> Venez sur le pont si vous voulez, mademoiselle Keegan...</p> </div>
+     
+    <div class='message'> <div class='char gioele'></div> <p> <span class="buddy"> Gioele :</span> <em>Regarde sa fille revenir, un peu hébété.</em> Tu vas bine ma puce ? Tu veux... Que je te rapporte quelque chose ? <em>Secoue la tête et soupire.</em> Pourquoi a t-il fallu qu'on oublie les moyens de contraception...</p> </div>
+     
+    <div class='log'>  <strong>Finola</strong> a quitté la discussion, elle a quitté la pièce et n'a pas de talky.... </div>
+     
+    <div class='log'>  <strong>Hua</strong> a quitté la discussion, elle a quitté la pièce et n'a pas de talky.... </div>
+     
+    <div class='log'>  <strong>Gioele</strong> a quitté la discussion, il a fermé l'onglet. </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Chunette, y a l'truc.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Le machin ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Ouais. L'bidule du labo, là. Y a l'Chaman qui l'a pris.</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> Oui, le bidule-chose.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> 'xact'ment ! 'reusement que y en a qui suive !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Le machin-chouette, quoi. Le Chaman a le droit de le prendre, il boit tellement de café qu'il est autorisé à manipuler les bidules-trucs.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Le chaman confirme d'ailleurs que le machin-bidule-chouette n'a eu aucun effet sur le Sujet d'Expérimentation, qui semble donc ne présenter aucun effet champignonnesque.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> [Traduction en clair : Gioele a utilisé le sérum sur Raluca, elle a gardé ses compétences, donc pas Mush. Et je ne vois vraiment pas comment ils auraient pu convertir quelqu'un d'autre.]</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> C'bien si vous avez confiance en l'Chaman pour la chose, pas donné à tout l'monde de maitriser les injections pour l'trucmuche. 'fin bref, Chunette, ça vous d'range si j'vous demande d'porter mon ruban pendant un temps ?</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> Ha là par contre je suis plus. C'est pas vous, le sujet d'expérimentation ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> [Gioele est confirmé because il avale des cafés à la chaîne, donc il n'y a aucun risque que ce soit un Mush qui sabote ou fait semblant d'utiliser le sérum.]</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Euh... votre ruban, Mr Soultoun ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Mon ruban. Oui. Je vous le donne, vous le prenez, et on en reparle plus. Alors, ça vous tente ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Pourquoi flaire-je un piège ?</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> <em>Renifle ses bananiers.</em> Non, rien de spécial dans ceux-là…</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> 'coutez, j'm'suis cassé l'bonbons pour faire p'rter l'ruban aux autres d'mes d'c'vaisseau, j'avais bien avancé, l'chaman avait presque finit l'rituel, mais elles se sont faites claquées. Alors j'vais pas tout r'commencer l'tintouin, vous pr'nez l'ruban, c'est tout !</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> <em>Chuchote aux autres.</em> Vous comprenez de quoi il cause ? Ou alors il a perdu la tête ? <em>Plus haut.</em> Un rituel, dites-vous... et les dames à qui vous vouliez faire porter ce "ruban" sont toutes mortes. Je ne sais pas pourquoi, mais ça ne me paraît pas encourageant.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Mais c'pas la faute du r'ban, c'est la faute des mushs ! Et de Hua, 'videmment, mais c'pas la question. L'ruban c'qu'un morceau d'tissu, et l'chaman il fait qu'parler aux esprits et s'crifier des animaux pour les Loas trucs, là, voyez ? Rien d'dang'reux. L'ruban, Chun.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> C'est clair comme de la boue marécageuse, votre histoire. Votre ruban, là, si c'est censé être un porte-bonheur, ben ça a l'air raté. Et puis... euh... je n'ai rien contre parler aux esprits, ils ont souvent plein de choses intéressantes à raconter, mais... le sacrifice d'animaux, c'est pas trop mon truc...</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Hein ? M'nan ! C'est l'ch'man qui fait les s'crifices ! C'pas vous, vous f'tes que p'rter mon r'ban. Il a rien d'occulte, c'est j'ste mon r'ban. C'pour la première étape du rituel. Rien d'm'chant !</p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> C'est une sorte de parade nuptiale ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Vous cherchez à me rassurer, Stephen ? <img src="http://data.twinoid.com/img/smile/square/dontcare.png" alt="-_-" class="tid_ico"> Dr Soulton, si cette... chose est le produit de sacrifices animaux, même d'un sacrifice de mankarog, ça ne donne moyennement envie d'y toucher. Et puis les "rituels", qu'ils soient scientifiques ou chamaniques, j'en ai par-dessus la tête. Je ne suis pas un cobaye.</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Oooh, z'êtes pas du tout l'cobaye, qu'non, z'êtes plutôt... euh... la cible... d'un intérêt... peut-être ?</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Je vois. Sans vouloir vous offenser, vous n'allez pas être père ? Vous devriez peut-être faire porter le chap... le ruban à la personne en question, plutôt.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> Et puis j'en ai assez d'être un cobaye, mais j'en ai aussi assez d'être une cible. <em>Remet son armure en grommelant.</em></p> </div>
+     
+    <div class='message'> <div class='char stephen'></div> <p> <span class="buddy"> Stephen :</span> J'essaie de comprendre surtout, je suis tout aussi perdu que vous.</p> </div>
+     
+    <div class='message'> <div class='char roland'></div> <p> <span class="buddy"> Roland :</span> ca a l'air d'etre de la bonne came qu'il nous cache sous le bureau du labo celui la dis donc.... avec effet hallucinogène petetre... wahouu il a du mettre des champignons dans ses ptits sacs <img src="http://data.twinoid.com/img/smile/square/fear.png" alt="fear" class="tid_ico"></p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> Mais j'm'fiche d'la Paolette, c'vous qui m'y avez f'rcé ! J'vous avais pr'vnu ! S'il vous plait, Chunette, c'juste un r'ban !</p> </div>
+     
+    <div class='message'> <div class='char paola'></div> <p> <span class="buddy"> Paola :</span> ... Hum.</p> </div>
+     
+    <div class='message'> <div class='char chun'></div> <p> <span class="buddy"> Chun :</span> (Bonsoir, Miss Rinaldo.) Bon, donnez-moi ce fichu ruban. Je peux le nouer à la queue de Schrödinger ?</p> </div>
+     
+    <div class='message'> <div class='char ian'></div> <p> <span class="buddy"> Ian :</span> 'videmment !</p> </div>
